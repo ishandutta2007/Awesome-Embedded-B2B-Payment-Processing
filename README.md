@@ -70,7 +70,7 @@ The sector exhibits **moderate fragmentation with high concentration at the tier
 
 The following open-source frameworks, financial ledgers, and payment routing engines enable developers to build, orchestrate, and audit embedded payment systems without vendor lock-in 🔓.
 
-*Sorted by GitHub Stars_Count (descending):*
+*Sorted by GitHub_Stars_Count (descending):*
 
 | Project & Repository 📦 | GitHub_Stars_Badge ⭐ | License 📜 | Tech Stack 🛠️ | Primary Architecture & Embedded B2B Capabilities 💡 |
 | :--- | :--- | :--- | :--- | :--- |
