@@ -70,9 +70,9 @@ The sector exhibits **moderate fragmentation with high concentration at the tier
 
 The following open-source frameworks, financial ledgers, and payment routing engines enable developers to build, orchestrate, and audit embedded payment systems without vendor lock-in 🔓.
 
-*Sorted by GitHub Star count (descending):*
+*Sorted by GitHub Stars_Count (descending):*
 
-| Project & Repository 📦 | GitHub Stars Badge ⭐ | License 📜 | Tech Stack 🛠️ | Primary Architecture & Embedded B2B Capabilities 💡 |
+| Project & Repository 📦 | GitHub_Stars_Badge ⭐ | License 📜 | Tech Stack 🛠️ | Primary Architecture & Embedded B2B Capabilities 💡 |
 | :--- | :--- | :--- | :--- | :--- |
 | [**Hyperswitch**](https://github.com/juspay/hyperswitch) | [![Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | Apache-2.0 | Rust 🦀 | High-performance open-source payment switch and orchestrator connecting 100+ processors (Stripe, Adyen, Braintree) through a unified API with smart dynamic routing and unified dispute workflows. |
 | [**BTCPay Server**](https://github.com/btcpayserver/btcpayserver) | [![Stars](https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=social&color=white)](https://github.com/btcpayserver/btcpayserver/stargazers) | MIT | C# / .NET ⚡ | Self-hosted, secure, and open-source payment processor enabling censorship-resistant crypto settlement, multi-store checkout, and automated B2B invoicing with zero third-party intermediaries. |
@@ -120,7 +120,7 @@ Contributions are welcome and highly encouraged! To contribute:
 1. 🍴 Fork this repository.
 2. 🌿 Create a new branch: `git checkout -b feature/new-payment-tool`.
 3. 📝 Add your entry following the established table format (include pricing, free tier limits, company metrics, and direct links).
-4. 🔍 Verify all GitHub repo links, star badges, and markdown tables render cleanly.
+4. 🔍 Verify all GitHub repo links, Stars_Badges, and markdown tables render cleanly.
 5. 🚀 Submit a descriptive Pull Request with relevant documentation or release references.
 
 ---
