@@ -139,7 +139,7 @@
 
     <!-- Bottom Feature Badges -->
     <text x="360" y="152" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#cbd5e1">
-      ⚡ Real-Time Processing &nbsp;•&nbsp; 🔒 Bank-Grade Security &nbsp;•&nbsp; 🌐 SaaS &amp; Open-Source
+      ⚡ Real-Time Processing &#160;•&#160; 🔒 Bank-Grade Security &#160;•&#160; 🌐 SaaS &amp; Open-Source
     </text>
   </g>
 
